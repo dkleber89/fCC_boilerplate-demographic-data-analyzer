@@ -2,11 +2,11 @@
 name = "fcc-demographic-data-analyzer"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["dkleber89 <dkleber89@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-pandas = "^1.0"
+python = "^3.9"
+pandas = "^2.0"
 
 [tool.poetry.dev-dependencies]
 
